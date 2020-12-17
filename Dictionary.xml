@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Магазин одежды -->
+<store>
+    <!-- Одежда -->
+    <department name_eng = "Clothing" name_rus = "Одежда">
+        <product id = "1" name_eng = "Shirt" name_rus = "Рубашка" />
+        <product id = "2" name_eng = "Pants" name_rus = "Брюки" />
+        <product id = "3" name_eng = "Socks" name_rus = "Носки" />
+    </department>
+    <!-- Обувь -->
+    <department name_eng = "Shoes" name_rus = "Обувь">
+        <product id = "11" name_eng = "Sneakers" name_rus = "Кеды" />
+        <product id = "12" name_eng = "Womens_shoes" name_rus = "Туфли" />
+        <product id = "13" name_eng = "Boots" name_rus = "Ботинки" />
+    </department>
+    <!-- Инструменты -->
+    <department name_eng = "Tools" name_rus = "Инструметы">
+        <product id = "21" name_eng = "Hammer" name_rus = "Молоток" />
+        <product id = "22" name_eng = "Screwdriver" name_rus = "Отвертка" />
+        <product id = "23" name_eng = "Chainsaw" name_rus = "Пила" />
+    </department>
+    <!-- Продукты -->
+    <department name_eng = "Foodstuff" name_rus = "Продукты">
+        <product id = "31" name_eng = "Fruits" name_rus = "Фрукты" />
+        <product id = "32" name_eng = "Meat" name_rus = "Мясо" />
+        <product id = "33" name_eng = "Water" name_rus = "Вода" />
+    </department>
+    <!-- Электроника -->
+    <department name_eng = "Electronics" name_rus = "Электроника">
+        <product id = "41" name_eng = "Shirt" name_rus = "Ноутбук" />
+        <product id = "42" name_eng = "Pants" name_rus = "Наушники" />
+        <product id = "43" name_eng = "Smartphone" name_rus = "Смартфон" />
+    </department>
+    <!-- Канцелярия -->
+    <department name_eng = "Stationery" name_rus = "Канцелярия">
+        <product id = "51" name_eng = "A pen" name_rus = "Ручка" />
+        <product id = "52" name_eng = "Pencil" name_rus = "Карандаш" />
+        <product id = "53" name_eng = "Paper" name_rus = "Бумага" />
+    </department>
+    <!-- Муз. инструменты -->
+    <department name_eng = "Music instruments" name_rus = "Муз. инструменты">
+        <product id = "61" name_eng = "Guitar" name_rus = "Гитара" />
+        <product id = "62" name_eng = "Violin" name_rus = "Скрипка" />
+        <product id = "63" name_eng = "Piano" name_rus = "Рояль" />
+    </department>
+    <!-- Спорт. товары -->
+    <department name_eng = "Clothing" name_rus = "Спорт. товары">
+        <product id = "71" name_eng = "Dumbbell" name_rus = "Гантели" />
+        <product id = "72" name_eng = "Ski" name_rus = "Лыжи" />
+        <product id = "73" name_eng = "Bicycle" name_rus = "Велосипед" />
+    </department>
+    <!-- Спорт. питание -->
+    <department name_eng = "Sport nutrition" name_rus = "Спорт. питание">
+        <product id = "81" name_eng = "Protein" name_rus = "Протеин" />
+        <product id = "82" name_eng = "Creatine" name_rus = "Креатин" />
+        <product id = "83" name_eng = "Gainer" name_rus = "Геинер" />  
+    </department>
+    <!-- Мебель -->
+    <department name_eng = "Furniture" name_rus = "Мебель">
+        <product id = "91" name_eng = "Bed" name_rus = "Кровать" />
+        <product id = "92" name_eng = "Sofa" name_rus = "Диван" />
+        <product id = "93" name_eng = "Chair" name_rus = "Кресло" />
+    </department>
+</store>
